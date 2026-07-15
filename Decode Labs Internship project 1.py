@@ -1,18 +1,3 @@
-"""
-DecodeLabs Industrial Training Kit - Project 1
-Password Strength Checker
-
-Goal (per project brief):
-    Create a program that checks whether a password is weak, medium, or strong.
-
-Key Requirements (per project brief):
-    - Check password length
-    - Check use of numbers, symbols, and uppercase letters
-    - Display password strength result
-
-Key Skills:
-    String handling, condition checks, security basics
-"""
 
 import string
 
